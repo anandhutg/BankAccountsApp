@@ -1,0 +1,16 @@
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\bin\Debug\net8.0-windows\BanAccountsApp.exe
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\bin\Debug\net8.0-windows\BanAccountsApp.deps.json
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\bin\Debug\net8.0-windows\BanAccountsApp.runtimeconfig.json
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\bin\Debug\net8.0-windows\BanAccountsApp.dll
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\bin\Debug\net8.0-windows\BanAccountsApp.pdb
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.Form1.resources
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.csproj.GenerateResource.cache
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.AssemblyInfoInputs.cache
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.AssemblyInfo.cs
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.dll
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\refint\BanAccountsApp.dll
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.pdb
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.genruntimeconfig.cache
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\ref\BanAccountsApp.dll
