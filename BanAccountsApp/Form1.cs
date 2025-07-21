@@ -24,9 +24,10 @@ namespace BanAccountsApp
                 BankAccount SelectedBankAccount = BankAccountsGrid.SelectedRows[0].DataBoundItem as BankAccount;
                 string message = SelectedBankAccount.Deposit(AmountNum.Value);
 
-                MessageBox.Show(message);
+                
                 RefreshGrid();
                 AmountNum.Value = 0;
+                MessageBox.Show(message);
             }
             else
             {
@@ -41,9 +42,9 @@ namespace BanAccountsApp
                 BankAccount SelectedBankAccount = BankAccountsGrid.SelectedRows[0].DataBoundItem as BankAccount;
                 string message = SelectedBankAccount.Withdraw(AmountNum.Value);
 
-                MessageBox.Show(message);
                 RefreshGrid() ;
                 AmountNum.Value = 0;
+                MessageBox.Show(message);
 
             }
             else

@@ -18,7 +18,7 @@ namespace BanAccountsApp
             AccountNumber = Guid.NewGuid();
             Balance = 0;
         }
-        //Encapsulation of Balance
+        //Encapsulation of Balance Property
         public string Deposit(decimal amount)
         {
             if (amount <= 0)
