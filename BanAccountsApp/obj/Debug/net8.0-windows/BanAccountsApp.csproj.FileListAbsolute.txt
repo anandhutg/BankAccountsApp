@@ -14,3 +14,4 @@ C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-
 C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.pdb
 C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.genruntimeconfig.cache
 C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\ref\BanAccountsApp.dll
+C:\Users\anandhu.tg\source\repos\BanAccountsApp\BanAccountsApp\obj\Debug\net8.0-windows\BanAccountsApp.sourcelink.json

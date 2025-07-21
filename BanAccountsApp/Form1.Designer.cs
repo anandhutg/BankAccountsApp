@@ -66,7 +66,7 @@
             OwnerTxt.Location = new Point(159, 60);
             OwnerTxt.Margin = new Padding(2, 3, 2, 3);
             OwnerTxt.Name = "OwnerTxt";
-            OwnerTxt.Size = new Size(367, 39);
+            OwnerTxt.Size = new Size(318, 39);
             OwnerTxt.TabIndex = 3;
             OwnerTxt.TextChanged += OwnerTxt_TextChanged;
             // 
@@ -74,19 +74,22 @@
             // 
             AmountNum.Location = new Point(159, 461);
             AmountNum.Margin = new Padding(2, 3, 2, 3);
+            AmountNum.Maximum = new decimal(new int[] { 999999, 0, 0, 0 });
+            AmountNum.Minimum = new decimal(new int[] { 999999, 0, 0, int.MinValue });
             AmountNum.Name = "AmountNum";
             AmountNum.Size = new Size(226, 39);
             AmountNum.TabIndex = 4;
+            AmountNum.ValueChanged += AmountNum_ValueChanged;
             // 
             // BankAccountsGrid
             // 
             BankAccountsGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             BankAccountsGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            BankAccountsGrid.Location = new Point(620, 60);
+            BankAccountsGrid.Location = new Point(481, 60);
             BankAccountsGrid.Margin = new Padding(2, 3, 2, 3);
             BankAccountsGrid.Name = "BankAccountsGrid";
             BankAccountsGrid.RowHeadersWidth = 62;
-            BankAccountsGrid.Size = new Size(376, 343);
+            BankAccountsGrid.Size = new Size(515, 343);
             BankAccountsGrid.TabIndex = 5;
             // 
             // DepositBtn
@@ -116,7 +119,7 @@
             CreateAccountBtn.Location = new Point(159, 140);
             CreateAccountBtn.Margin = new Padding(2, 3, 2, 3);
             CreateAccountBtn.Name = "CreateAccountBtn";
-            CreateAccountBtn.Size = new Size(367, 38);
+            CreateAccountBtn.Size = new Size(318, 38);
             CreateAccountBtn.TabIndex = 8;
             CreateAccountBtn.Text = "Create Account";
             CreateAccountBtn.UseVisualStyleBackColor = true;
