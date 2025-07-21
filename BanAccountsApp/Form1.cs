@@ -67,9 +67,9 @@ namespace BanAccountsApp
         {
             if (string.IsNullOrEmpty(OwnerTxt.Text))
                 return;
-            if (InterestNum.Value>0)
+            if (InterestNum.Value > 0)
             {
-                SavingsAccount savingsAccount = new SavingsAccount(OwnerTxt.Text,InterestNum.Value);
+                SavingsAccount savingsAccount = new SavingsAccount(OwnerTxt.Text, InterestNum.Value);
                 bankAccounts.Add(savingsAccount);
             }
             else
@@ -96,6 +96,11 @@ namespace BanAccountsApp
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void InterestNum_ValueChanged(object sender, EventArgs e)
         {
 
         }

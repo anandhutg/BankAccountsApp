@@ -144,6 +144,7 @@
             InterestNum.Name = "InterestNum";
             InterestNum.Size = new Size(131, 39);
             InterestNum.TabIndex = 10;
+            InterestNum.ValueChanged += InterestNum_ValueChanged;
             // 
             // Form1
             // 
