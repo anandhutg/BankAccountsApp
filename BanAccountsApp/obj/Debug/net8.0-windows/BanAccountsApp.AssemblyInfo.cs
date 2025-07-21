@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanAccountsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae06472e4b9c38f832458ac52a34f2260fad57f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46645f276dbb6ae87a2d261f59541cefb81d58a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanAccountsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanAccountsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

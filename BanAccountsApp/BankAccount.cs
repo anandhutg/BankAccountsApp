@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BanAccountsApp
 {
-    internal class BankAccount
+    public class BankAccount
     {
         public string Owner { get; set; }
         public Guid AccountNumber { get; set; }
